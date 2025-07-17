@@ -1,5 +1,20 @@
-## Next.js App Router Course - Starter
+# Next.js dashboard web app - POC
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is a web application starting from the [Next.js App Vercel Course](https://nextjs.org/learn) starter template.
+The aim of this course is going from beginner to expert by learning the foundations of Next.js and building a fully functional demo website that uses all the latest features.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Features implemented
+
+-   Starting up
+-   CSS styling
+-   Optimizing fonts and images
+-   Creating layout and pages
+-   Navigating between pages
+-   Setting up our database
+-   Fetching data
+-   Static and dynamic rendering
+-   Streaming
+
+## Dashboard screenshot
+
+![Aperçu du dashboard](./public/images/course-explainer.avif)
